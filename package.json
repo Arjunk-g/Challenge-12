@@ -1,0 +1,25 @@
+{
+  "name": "challenge-12",
+  "version": "1.0.0",
+  "description": "Arjun Gupta's Submission for Challenge 12",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arjunk-g/Challenge-12.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arjunk-g/Challenge-12/issues"
+  },
+  "homepage": "https://github.com/Arjunk-g/Challenge-12#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "8.2.4",
+    "mysql2": "^2.1.0"
+  }
+
+}
