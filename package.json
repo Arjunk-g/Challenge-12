@@ -18,8 +18,8 @@
   "homepage": "https://github.com/Arjunk-g/Challenge-12#readme",
   "dependencies": {
     "console.table": "^0.10.0",
+    "express": "^4.17.1",
     "inquirer": "8.2.4",
     "mysql2": "^2.1.0"
   }
-
 }
