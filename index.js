@@ -55,7 +55,6 @@ inquirer
 });
     }
 
-
 //viewings
 
     departments = () => {
@@ -91,7 +90,7 @@ inquirer
         connection.query(`INSERT INTO department (name) VALUES ('${response.departmentBruh}')`, function (err, result) {
             if (err) throw err;
             console.table(result)
- });
+});
     })}
 
     plusRoles = () => {
@@ -104,7 +103,7 @@ inquirer
         connection.query(`INSERT INTO role (name) VALUES ('${response.roleBruh}')`, function (err, result) {
             if (err) throw err;
             console.table(result)
- });
+});
     })}
 
     plusEmployees = () => {
@@ -117,5 +116,5 @@ inquirer
         connection.query(`INSERT INTO role (name) VALUES ('${response.employeeBruh}')`, function (err, result) {
             if (err) throw err;
             console.table(result)
- });
+});
     })}

@@ -1,17 +1,22 @@
-# Challenge-12
-Arjun Gupta's Submission for Challenge 12
-
 # Arjun-Gupta-Challenge-12
 Arjun Gupta's 12th challenge
+
+
+
 link to the GitHub repository: https://github.com/Arjunk-g/Challenge-12
 
-Google Drive Link to Video Submision: 
+
+
+Google Drive Link to Video Submision: https://drive.google.com/file/d/1UIhVgaiDzgXRI0lODL9QA8nvjw-Vl0-O/view?usp=sharing
+
+
 
 link to the Deployed application: Node Application
 
-Description of what the application does: .
 
-Mostly all JS is complete, inquirer and jest packages were installed, and HTML Cards dont have HTML.
+
+Description of what the application does: This application allows you to save and store departments roles and employees in a database.
+
 
 
 Screenshot of Project:
